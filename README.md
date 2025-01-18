@@ -1,4 +1,7 @@
-# remarkable
+# Folk from https://github.com/jonschlinkert/remarkable.git
+This repo removes 'document' for serverside bypass purposes in Framer
+
+## remarkable
 
 [![Build Status](https://travis-ci.org/jonschlinkert/remarkable.svg?branch=master)](https://travis-ci.org/jonschlinkert/remarkable)
 [![NPM version](https://img.shields.io/npm/v/remarkable.svg)](https://www.npmjs.org/package/remarkable)
